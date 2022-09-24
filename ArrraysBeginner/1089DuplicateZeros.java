@@ -14,7 +14,6 @@ Input: arr = [1,2,3]
 Output: [1,2,3]
 Explanation: After calling your function, the input array is modified to: [1,2,3]
  
-
 Constraints:
 
 1 <= arr.length <= 104
